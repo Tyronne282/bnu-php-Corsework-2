@@ -1,5 +1,5 @@
 <?php
-// CO551 CW2 - Task 7
+//  Task 7
 
 include "passwordLib.php";
 
